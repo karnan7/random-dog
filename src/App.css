@@ -1,0 +1,20 @@
+.App,
+.loading {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  place-content: center;
+  overflow: hidden;
+}
+
+.container{
+  width: 500px;
+  height: 700px;
+}
+.container img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
